@@ -1,0 +1,22 @@
+{
+  "name": "javascript-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleticod/JavaScript-Asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Harvey Unsaac 193837@unsaac.edu.pe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aleticod/JavaScript-Asincronismo/issues"
+  },
+  "homepage": "https://github.com/Aleticod/JavaScript-Asincronismo#readme"
+}
