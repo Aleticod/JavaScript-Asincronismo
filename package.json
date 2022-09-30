@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Aleticod/JavaScript-Asincronismo/issues"
   },
-  "homepage": "https://github.com/Aleticod/JavaScript-Asincronismo#readme"
+  "homepage": "https://github.com/Aleticod/JavaScript-Asincronismo#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
