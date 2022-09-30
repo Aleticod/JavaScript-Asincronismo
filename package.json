@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/xmlhttp.js"
+    "callback": "node src/callback/xmlhttp.js",
+    "promise": "node src/promise/node-fetch.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,8 @@
   },
   "homepage": "https://github.com/Aleticod/JavaScript-Asincronismo#readme",
   "devDependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
-  }
+  }, 
+  "type": "module"
 }
